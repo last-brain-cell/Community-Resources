@@ -1,7 +1,6 @@
 # Machine Learning
 
-<details>
-  <summary>Materials</summary>
+<Materials>
 - [Harvard Data Science](https://cs109.github.io/2015/)
 - [A History of Machine Learning](https://cloud.withgoogle.com/build/data-analytics/explore-history-machine-learning/)
 - [Timeline of Machine Learning](https://en.wikipedia.org/wiki/Timeline_of_machine_learning)
@@ -102,4 +101,4 @@
 - [Grokking Artificial Intelligence Algorithms](https://www.manning.com/books/grokking-artificial-intelligence-algorithms)
 - [AI-Powered Search](https://www.manning.com/books/ai-powered-search)
 - [Feature Engineering Bookcamp](https://www.manning.com/books/feature-engineering-bookcamp)
-</details>
+</Materials>
