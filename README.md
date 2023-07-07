@@ -1,4 +1,4 @@
-<h1 align="center">Computer Science Resources</h1>
+<h1 align="center">IEEE Computer Society MUJ Community Repository</h1>
 
 <h1 align="center">
     <img alt="CS" title="Computer-Science-Resources" src="https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/avatar.png"> </br>
@@ -7,8 +7,6 @@
 <p align="center">
 	A list of resources in different fields of <b>Computer Science</b> (in multiple languages).
 </p>
-
-# IEEE Computer Society MUJ Community Repository
 
 Welcome to the IEEE Computer Society MUJ Community Repository!
 
