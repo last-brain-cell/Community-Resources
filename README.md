@@ -95,5 +95,5 @@ Join us on this exciting journey and let's build a thriving community of compute
 - Databases
   - [SQL](https://github.com/the-akira/computer_science_web_resources/blob/master/db/sql.md)
   - [NOSQL](https://github.com/the-akira/computer_science_web_resources/blob/master/db/nosql.md)
-  - [Big Data](https://github.com/the-akira/computer_science_web_resources/blob/master/db/big_data.md)
-  - [Data Mining](https://github.com/the-akira/computer_science_web_resources/blob/master/db/data_mining.md)
+  - [Big Data](db/big_data.md)
+  - [Data Mining](db/data_mining.md)
