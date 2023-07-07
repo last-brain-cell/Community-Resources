@@ -1,8 +1,7 @@
 # Machine Learning
 
 <details>
-  
-  ### Materials
+  <summary>Materials</summary>
 - [Harvard Data Science](https://cs109.github.io/2015/)
 - [A History of Machine Learning](https://cloud.withgoogle.com/build/data-analytics/explore-history-machine-learning/)
 - [Timeline of Machine Learning](https://en.wikipedia.org/wiki/Timeline_of_machine_learning)
