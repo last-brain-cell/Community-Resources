@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="CS" src="WhatsApp Image 2023-06-15 at 12.07.09 AM.jpeg" height=150 width=700> </br>
+    <img alt="CS" src="WhatsApp Image 2023-06-15 at 12.07.09 AM.jpeg" height=150 width=1000> </br>
 </h1>
 <h1 align="center">IEEE Computer Society MUJ Community Repository</h1>
 
