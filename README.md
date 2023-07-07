@@ -8,6 +8,33 @@
 	A list of resources in different fields of <b>Computer Science</b> (in multiple languages).
 </p>
 
+# IEEE Computer Society MUJ Community Repository
+
+Welcome to the IEEE Computer Society MUJ Community Repository!
+
+This GitHub repository serves as a collaborative platform for the members of the IEEE Computer Society at Manipal University Jaipur (MUJ). As a community dedicated to promoting and advancing computer science and technology, we aim to foster a vibrant and inclusive environment where students, researchers, and enthusiasts can come together to learn, collaborate, and innovate.
+
+## Contents
+
+In this repository, you'll find a wealth of valuable resources, including:
+
+1. **Project Samples and Templates:** Explore a collection of project samples and templates to kickstart your own software development initiatives. These resources cover various domains, programming languages, and frameworks, providing you with a solid foundation to build upon.
+
+2. **Code Snippets and Algorithms:** Access a curated library of code snippets and algorithms to enhance your coding skills. These snippets cover a wide range of topics, from data structures and algorithms to machine learning and artificial intelligence, helping you sharpen your programming prowess.
+
+3. **Tutorials and Guides:** Discover a comprehensive set of tutorials and guides on various computer science topics. Whether you're a beginner seeking to grasp fundamental concepts or an advanced learner delving into specialized domains, our tutorials will provide valuable insights and step-by-step instructions.
+
+4. **Open Source Projects:** Contribute to ongoing open source projects or start your own initiatives in collaboration with fellow members. Open source development not only hones your coding skills but also promotes teamwork, community engagement, and the opportunity to make a meaningful impact.
+
+5. **Event Materials and Presentations:** Access slides, materials, and resources from past IEEE Computer Society MUJ events, including workshops, seminars, and guest lectures. These materials will help you revisit key takeaways and continue your learning journey beyond the event itself.
+
+## Get Involved
+
+We encourage active participation from all members of the IEEE Computer Society MUJ community. Feel free to explore, contribute, and engage with your peers. By sharing knowledge, collaborating on projects, and supporting each other, we can collectively advance our understanding of computer science and foster innovation.
+
+Join us on this exciting journey and let's build a thriving community of computer science enthusiasts together!
+
+
 ## Content
 
 - Getting Started
